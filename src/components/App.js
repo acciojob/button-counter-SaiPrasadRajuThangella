@@ -6,6 +6,7 @@ import Counter from "./Counter";
 const App = () => {
   return (
     <div>
+      {/* Do not remove the main div */}
         <Counter/>
     </div>
   )
